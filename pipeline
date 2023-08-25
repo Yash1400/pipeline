@@ -2,7 +2,7 @@ pipeline{
 
 	stages{
 		stage{
-			git branch:'main',url: 'https://github.com/Yash1400/Portfolio.git'
+			git branch:'main',url: 'https://github.com/Yash1400/pipeline.git'
 		}
 	}
 
